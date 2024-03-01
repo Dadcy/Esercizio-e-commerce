@@ -1,0 +1,67 @@
+  * {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+header{display: flex;
+    justify-content: center;
+    }
+header div{
+       color: rgb(4, 12, 9);
+}
+.container{
+     display: flex;
+     flex-direction: row-reverse;
+     justify-content: flex-end;
+     align-items: center;
+    margin-bottom: 30px;
+    }
+.testo {display: flex;
+        flex-direction: column;
+       }
+.image{ margin-top: 40px;
+        margin-right: 40px;
+         margin-left: 10px;}
+.titolotesto{
+            margin-bottom: 10px;
+    }
+.paragrafo{ margin-bottom: 5px;}
+
+
+.prezzo {margin-bottom: 5px;
+        
+                       }
+
+
+
+.link  { color: chocolate;
+}
+
+#visibile{
+  margin-left: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.vista{
+    opacity: 0.3;
+}
+.vision{
+    opacity: 1;
+}
+footer{
+    display: flex;
+     flex-direction: row;
+}
+
+
+.info{
+    display: flex;
+    
+}
+#areacommento{
+    margin-left: 50px;
+    margin-bottom: 100px;
+    display: flex;
+   
+}
